@@ -2521,7 +2521,7 @@ input[type="checkbox"]:checked + label:before {
   height: auto;
   float: left;
   clear: both;
-  background-color: #ca924b;
+  background-color: #79501a;
   color: #fff;
   position: relative;
 }
