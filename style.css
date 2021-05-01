@@ -1601,7 +1601,7 @@ svg.svg-features-bottom {
   transition: all 0.3s ease-out;
 }
 .grid--support .grid__item--padding:hover {
-  background-color: #38cbdd;
+  background-color: #e6cba9;
   color: #fff;
   box-shadow: 0 0 30px 0px rgba(0, 0, 0, 0.18);
   -moz-box-shadow: 0 0 30px 0px rgba(0, 0, 0, 0.18);
