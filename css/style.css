@@ -3266,3 +3266,72 @@ ul.grid__list--fmenu li a:hover {
     padding-right: 40px;
   }
 }
+
+.heron {
+  padding: 6rem 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #f3f5fa;
+}
+@media (max-width: 600px) {
+  .heron {
+    padding: 5rem 0;
+  }
+}
+.heron .section-heading {
+  font-size: 2.3rem;
+  font-weight: 700 !important;
+  border-bottom: 1px solid rgba(223, 227, 255, 0.5);
+  padding-bottom: 80px;
+  color: #ca924b;
+}
+@media (max-width: 600px) {
+  .heron .section-heading {
+    padding-bottom: 40px;
+  }
+}
+
+.bry-spacing--inner {
+  margin-top: 70px;
+}
+@media (max-width: 600px) {
+  .bry-spacing--inner {
+    margin-top: 20px;
+  }
+}
+
+.bry-table {
+  border: 1px solid #dfe2e5;
+  border-radius: 4px;
+}
+
+.bottom-spacing {
+  margin-bottom: 20px !important;
+}
+
+.top--spacing {
+  margin-top: 25px !important;
+}
+
+.disclaimer-list li {
+  list-style-type: disc;
+  margin-left: 22px;
+}
+
+.bry-spacing--inner p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.bd {
+  font-weight: 600 !important;
+  font-size: 17px;
+}
+
+.section-heading-1 {
+  font-size: 1.5rem;
+  margin: 5px 0;
+  font-weight: 600;
+  color: #ca924b;
+}
