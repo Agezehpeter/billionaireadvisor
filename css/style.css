@@ -556,7 +556,7 @@ h6 {
 .grid--5col .grid__item {
   float: left;
   margin-right: 80px;
-  margin-bottom: 80px;
+  margin-bottom: 20px;
   /* full width - space between cols * nr of inner spaces / number of cols */
   width: calc((100% - 80px * 4) / 5);
 }
@@ -1066,6 +1066,9 @@ svg.svg-features-bottom {
 .testimonials__item {
   position: absolute;
   z-index: 666;
+}
+.mt-4 {
+  margin-top: 30px !important;
 }
 .testimonials__item:nth-child(1) {
   top: 17%;
