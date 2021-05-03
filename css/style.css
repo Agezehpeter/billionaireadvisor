@@ -668,6 +668,14 @@ h6 {
 .grid__title span {
   font-weight: 700;
 }
+.text-center {
+  text-align: center !important;
+  margin-top: 0;
+}
+.copyrighty {
+  margin-top: 0 !important;
+  margin-bottom: 10px;
+}
 
 /* ELEMENT  grid__text  */
 /* --------------------  */
@@ -826,7 +834,7 @@ h6 {
   -o-background-size: cover;
   background-size: cover;
   background-position: center top;
-  background-image: url(images/bg.jpg);
+  background-image: url(/images/bg.jpg);
   position: relative;
   overflow: hidden;
 }
@@ -1562,7 +1570,7 @@ svg.svg-features-bottom {
   background-color: #fff;
   text-align: left;
   padding: 40px 0;
-  height: 300px;
+  height: 600px;
 }
 .hiw-content__slide pre {
   text-align: left;
@@ -2541,7 +2549,7 @@ input[type="checkbox"]:checked + label:before {
   clear: both;
 }
 .footer__content--padding {
-  padding: 100px 0;
+  padding: 10px 0 !important;
 }
 .footer__content--svg {
   padding-top: 100px;
